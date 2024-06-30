@@ -36,11 +36,14 @@ const explorer = {
                 }
 
             ]
+        },
+        {
+        name: "index.php",
+        isFolder: false
         }
 
-    ],
-    name: "index.php",
-    isFolder: false
+    ]
+    
 }
 
 export default explorer
